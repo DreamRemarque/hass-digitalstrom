@@ -1,6 +1,7 @@
 {
   "domain": "digitalstrom",
   "name": "digitalSTROM",
+  "version": "2.4.2",
   "documentation": "https://www.home-assistant.io/components/digitalstrom",
   "requirements": [
     "pydigitalstrom==1.4.0"
